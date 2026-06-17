@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "не придумал",
+    "description": "прапв",
+    "priority": "MEDIUM",
+    "isDone": false,
+    "createdAt": "2026-06-17T08:51:32.711422200"
+  }
+]
